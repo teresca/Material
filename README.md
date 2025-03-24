@@ -1,0 +1,1 @@
+When using this material please refer to the article: T. Scantamburlo et al., "Artificial Intelligence Across Europe: A Study on Awareness, Attitude and Trust," in IEEE Transactions on Artificial Intelligence, vol. 6, no. 2, pp. 477-490, Feb. 2025, doi: 10.1109/TAI.2024.3461633. 
